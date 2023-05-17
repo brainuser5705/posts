@@ -18,6 +18,11 @@ $max-font-size: 18px !default;
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
 $modular-scale-2: 1.2 !default; /* large */
+
+/* Site Title */
+$site-title-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * 30px !default;
+$site-title-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * 30px !default;
+
 /* Heading 1 */
 $h1-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
 $h1-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $modular-scale-2 * $base-font-size !default;

@@ -71,11 +71,15 @@
   text-align: center;
 }
 
+// Font for site title
+@import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
+
 .site-title {
   margin: 0.5em 0 0;
   padding: 0;
-  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  @include fluid-type($min-vw, $max-vw, $site-title-min, $site-title-max);
   font-weight: 700;
+  font-family: 'Monofett', cursive;
 
   a {
     text-decoration: none;
