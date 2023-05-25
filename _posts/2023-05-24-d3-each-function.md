@@ -114,3 +114,4 @@ svg.selectAll("text")
 
 ## Sources
 1. [Stack Overflow](https://stackoverflow.com/questions/47337119/how-can-i-get-call-to-execute-for-each-data-element-in-d3)
+2. "D3 for the Impatient" by Philipp K. Janert
