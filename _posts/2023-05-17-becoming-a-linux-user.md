@@ -28,10 +28,10 @@ An ongoing series of updates as I trek along the path of Linux mastery (*spoiler
     - `apt list [--installed] | grep jdk`
     - `tar zxvf <archive>`
 
+### NodeJS and npm
+- installing the [nvm package manager](https://github.com/nvm-sh/nvm#usage)
+
 I definitely need to learn more about Linux package managers and installation methods.
-
-### Python
-
 
 ---
 
