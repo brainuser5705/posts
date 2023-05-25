@@ -86,15 +86,6 @@ Because it doesn't pass the original selection (aka the parent) contrary to `cal
 ```javascript
 // setup code segments omitted
 
-var colors = ["red", "blue", "green"];
-var spacing = 100;
-
-var svg = d3.select("svg");
-
-function makeColor(sel, color){
-    sel.attr("fill", color);
-}
-
 svg.selectAll("text")
     .data(colors).enter()
     .append("text").text("Hello!")
