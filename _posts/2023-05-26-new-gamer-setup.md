@@ -59,7 +59,7 @@ For a total of ~$280, I snagged myself:
 
 ### Something always has to happen.
 
-As life goes, things weren't that perfect. Mainly with the standing desk. The assembly for the gaming chair went smoothly(ish), but I completely screwed up *(pun intended)* by tighting the screw way too much. So the rotator connecting the motorized leg and unmotorized leg is stuck, and it's severly misaligned that it's tearing the plastic housing. Here's a picture of my failure:
+As life goes, things weren't that perfect. Mainly with the standing desk. The assembly for the gaming chair went smoothly(ish), but for the table I completely screwed up *(pun intended)* by tighting the screw way too much. So the rotator connecting the motorized leg and unmotorized leg is stuck, and it's severly misaligned that it's tearing the plastic housing. Here's a picture of my failure:
 
 <figure class="align-center">
     <img src="{{ '/images/fail_setup.JPG' | absolute_url }}" alt="" width="300px">
