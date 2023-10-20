@@ -37,4 +37,12 @@ Journal documenting my journey learning embedded development
     - Still didn't work...so I tried to upload an Arduino sketch with the IDE and it worked so the Arduino isn't broken
     - Tried to flash again and it worked!! I don't know what that's the case but it worked
 - Tried with the CPP code from the book but `avr-g++` doesn't include the standard library
-    - next step is to figure out how to use the toolchains in the book's companion github repo
+    - https://stackoverflow.com/questions/22749477/how-to-use-c-std-with-avr-compiler
+    - https://stackoverflow.com/questions/22749477/how-to-use-c-std-with-avr-compiler
+    - https://electronics.stackexchange.com/questions/462124/can-i-use-c-stl-in-avr-gcc#:~:text=Unfortunately%2C%20avr%2Dg%2B%2B%20does,to%20find%20out%20which%20ones.
+- tried to use the toolchains but still have no idea how it works
+
+### Next Steps
+- Start learning C (Modern C - Level 0.1)
+- Go through the youtube video series to understand how the code actually works
+- Arudino piezo sensor mini project
