@@ -12,6 +12,7 @@ List of Vim commands to make development easier
 - **redo**: CTRL + r
 - **undo**: U
 - **copy and paste**: x or v or dd, then p
+- **indent and unindent**: `=` and `<`
 
 # .vimrc settings
 
