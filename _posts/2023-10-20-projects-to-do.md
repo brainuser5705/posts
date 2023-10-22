@@ -17,3 +17,9 @@ Listed along with the project name are their description, motivation, estimated 
     - a day or two, hackathon-type project
     - low
     - medium, not going to be easy since I'll have to learn a new "framework" and APIs
+- **Car brake simulator**
+    - electrical circuit simulation of car brakes and signaling
+    - need to grow electrical engineering knowledge
+    - more than a day
+    - medium
+    - hard because i am new to electronics
