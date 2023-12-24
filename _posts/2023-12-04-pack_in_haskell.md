@@ -54,7 +54,7 @@ packHelper count x (y:ys) =
 - New idea is to build the sublist separate from the parameters, as show in the `if-then-else` clause. Instead I have a `count` parameter that increments each time the elements are equal.
     - If they are, then increment and call again for the rest of the list.
     - If not, then make the sublist (`replicate`) and call again with a new element to compare.
-- I needed a terminating case when it reaches the last element in the list.
+- I needed a terminating case when it reaches the last element in the list. Note that it can reduced to just when the list is empty: `packHelper count x [] = [(replicate count x)]`
 
 > Notice that the sublists are wrapped around in *brackets* since the final result is a 2D list ([[]]). With `++` the two operands must be of the same type to concatenate together. So `[[1]] ++ [[2]]` => `[[1], [2]]`
 
