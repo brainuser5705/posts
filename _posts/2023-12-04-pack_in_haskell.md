@@ -71,3 +71,6 @@ packHelper :: (Eq a) => Int -> a -> [a] -> [[a]]
 - `Eq` typeclass since the elements must be able to perform `x == y`.
 - `Int` does not have a type variable because it's not a typeclass, it's its own type. I could have done `(Integral c, Eq a) => c -> ...` but I would be required to use `fromIntegral` whenever I use `count`.
 
+## Sources
+
+- https://stackoverflow.com/questions/63818160/syntax-in-functions-expected-kind-constraint-but-int-has-kind/63818284#63818284
