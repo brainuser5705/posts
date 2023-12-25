@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `pack` function in Haskell
+title: \`pack\` function in Haskell
 date: 2023-12-24
 tags: functional-programming
 ---
