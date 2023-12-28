@@ -9,6 +9,12 @@ tags: embedded
 
 Journal documenting my journey learning embedded development
 
+## 12/28/2023
+
+- Following "Make: AVR Programming" by Elliot Williams
+- Plan is to use the Arudino as the target for flashing (using it for both the programmer and the Atmega chip)
+- After that, I will do research on using a dedicated hardware programmer and getting the chip by itself separate from the Arduino (https://www.digikey.com/ordering/shoppingcart), and perhaps some of the other hardware stuff I need later in the book
+
 ## 10/13/2023
 
 - Started out intending to go through *Real-Time C++ - Efficient Object-Oriented and Template Microcontroller Programming* by Christopher Kormanyos
@@ -41,8 +47,3 @@ Journal documenting my journey learning embedded development
     - https://stackoverflow.com/questions/22749477/how-to-use-c-std-with-avr-compiler
     - https://electronics.stackexchange.com/questions/462124/can-i-use-c-stl-in-avr-gcc#:~:text=Unfortunately%2C%20avr%2Dg%2B%2B%20does,to%20find%20out%20which%20ones.
 - tried to use the toolchains but still have no idea how it works
-
-### Next Steps
-- Start learning C (Modern C - Level 0.1)
-- Go through the youtube video series to understand how the code actually works
-- Arudino piezo sensor mini project
